@@ -1,18 +1,18 @@
-Hi 👋, I'm  [Md Omor](https://mdomor.vercel.app)
+**Hi 👋, I'm  [Md Omor](https://mdomor.vercel.app)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-omor&label=Profile%20views&color=0e75b6&style=flat" alt="md-omor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-omor" alt="md-omor" /></a> </p>
 
-- 🔭 I’m currently working a [frontend developer](https://www.freelancer.com/u/coderrojina)
+- 🔭 I’m currently working as a [freelance frontend developer](https://www.freelancer.com/u/coderrojina)
 
-- 🌱 I’m currently learning **Fullstack backend**
+- 🌱 I’m currently learning **backend with Node JS**
 
 - 📆 I’m looking to collaborate on **a MERN Stack based open source project**
 
-- 👨‍💻 All of my projects are available at [https://mdomor.vercel.app/](https://mdomor.vercel.app/)
+- 👨‍💻 All of my projects are available at **[https://mdomor.vercel.app/](https://mdomor.vercel.app/)**
 
-- 💬 Ask me about **react js, node js, express js, mongo db, next js, typescript, javascript**
+- 💬 Ask me about **mren stack**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mdomor**
 
